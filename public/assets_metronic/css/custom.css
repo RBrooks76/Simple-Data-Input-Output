@@ -1,0 +1,175 @@
+body{
+    height: auto;
+}
+
+.flex{
+    display : flex;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.teacher_add_problem{
+    margin-top : 100px;
+}
+
+.card-footer-right{
+    text-align: right;
+}
+
+.form-group-flex{
+    display: flex;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.form-group-level{
+    width : 40%;
+}
+
+.form-group-lesson{
+    width : 20%;
+}
+
+.alert-custom-style{
+    width: 80%;
+    margin-left : auto;
+    margin-right: auto;
+    margin-top : 10px;
+}
+
+.form-group-lesson{
+    width: 20%
+}
+
+
+.admin-exam-datatable{
+    display : block!important;
+}
+
+
+.admin-exam-datatable{
+
+}
+
+.admin-exam-datatable .datatable-table .datatable-head{
+    border-bottom: 1px solid 3EBEDF3;
+}
+
+.ck-content {
+    min-height: 223px!important;
+}
+
+
+.font-size-20{
+    font-size: 20px;
+}
+
+.font-weight-700{
+    font-weight: 700;
+}
+
+.datatable.datatable-default.datatable-loaded {
+    display: block;
+}
+
+.datatable.datatable-default > .datatable-table {
+    background-color: #ffffff;
+    border-collapse: collapse;
+    overflow: hidden;
+    display: none;
+    width: 100%;
+}
+
+.datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-head, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-body, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-foot {
+    visibility: visible;
+    display: block;
+    position: relative;
+}
+
+.datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-foot .datatable-row {
+    display: table;
+    table-layout: initial;
+}
+
+.datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-foot .datatable-row {
+    border-bottom: 1px solid #EBEDF3;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row {
+    width: 100%;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell.datatable-cell-check, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell.datatable-cell-check, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell.datatable-cell-check {
+    text-align: left;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell.datatable-cell-center, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell.datatable-cell-center, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell.datatable-cell-center {
+    text-align: center;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell:first-child, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell:first-child, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell:first-child {
+    padding-left: 0;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell {
+    padding: 0.75rem 1rem;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell {
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+}
+
+.datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-head, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-body, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-foot {
+    visibility: visible;
+    display: block;
+    position: relative;
+}
+
+.datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default.datatable-loaded > .datatable-table > .datatable-foot .datatable-row {
+    display: table;
+    table-layout: initial;
+}
+
+.datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default.datatable-bordered > .datatable-table > .datatable-foot .datatable-row {
+    border-bottom: 1px solid #EBEDF3;
+}
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row {
+    width: 100%;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell.datatable-cell-check, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell.datatable-cell-check, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell.datatable-cell-check {
+    text-align: left;
+}
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell.datatable-cell-center, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell.datatable-cell-center, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell.datatable-cell-center {
+    text-align: center;
+}
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell:first-child, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell:first-child, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell:first-child {
+    padding-left: 0;
+}
+.datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell {
+    font-weight: regular;
+    -webkit-transition: background 0.3s ease;
+    transition: background 0.3s ease;
+}
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell {
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+}
+
+.datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell {
+    font-weight: regular;
+    -webkit-transition: background 0.3s ease;
+    transition: background 0.3s ease;
+}
+.datatable.datatable-default > .datatable-table > .datatable-head .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-body .datatable-row > .datatable-cell, .datatable.datatable-default > .datatable-table > .datatable-foot .datatable-row > .datatable-cell {
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+}
